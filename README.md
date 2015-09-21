@@ -13,4 +13,7 @@ Testing: Successful
 
 Learned: 
 
- auth = "true"; this has to be String not boolean in Mail class
+1. auth = "true"; this has to be String not boolean in Mail class
+2. less secure apps has to be enabled in google security settings. https://www.google.com/settings/security/lesssecureapps
+
+
