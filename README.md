@@ -15,7 +15,8 @@ Learned:
 
 1. auth = "true"; this has to be String not boolean in Mail class
 2. less secure apps has to be enabled in google security settings. https://www.google.com/settings/security/lesssecureapps
-3. 
+
+ 
 ![demo](https://cloud.githubusercontent.com/assets/11301947/10007304/02c8696a-6079-11e5-9f80-e3335848c5a3.png)
 
 
